@@ -1,0 +1,2 @@
+# Navigation_Mugen
+NavigationControllerでviewを遷移し、遷移した回数をカウントするトレーニング
